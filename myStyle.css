@@ -1,0 +1,55 @@
+.bg{
+    margin-top: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-size: 3.5rem;
+    color: #4E944F;
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Fredoka One', cursive; */
+}
+.intro{
+    margin-top: 2rem;
+    margin-left: 8rem;
+    margin-right:8rem;
+    padding: 1rem;
+    border: 0.25em solid;
+    background-color: #F9F3EE;
+    text-align: center;
+    font-size: 1rem;
+    color: #4E944F;
+    font-family: 'Red Hat Display', sans-serif;
+}
+.container{
+    margin-left: auto;
+    margin-right:auto;
+    /*max-width: 800px;*/
+}
+.col{
+    display: flex;
+    justify-content: center;
+
+}
+.row{
+    font-size: 4rem;
+    margin: 1rem;
+    margin-top: 4rem;
+    position: relative;
+    color: #570A57;
+    border: 0.1rem solid;
+    width: 3rem;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 00.01rem;
+}
+.row2{
+    font-size: 4rem;
+    margin: 1rem;
+    margin-left: 42%;
+    position: relative;
+    color: #570A57;
+    border: 0.1rem solid;
+    width: 13rem;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 00.01rem;
+}
